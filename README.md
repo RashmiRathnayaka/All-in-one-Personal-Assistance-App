@@ -2,6 +2,21 @@
 
 SereniLux is a full-stack web platform that connects customers with local service providers for everyday household and personal needs: house cleaning, kitchen help, elder care, child care, pet care and education/tutoring. Customers can browse and book services, pay online, leave reviews and get instant help from an AI chatbot. Service providers manage their own profiles and bookings, and administrators get a full financial dashboard covering revenue, expenses, salaries, refunds and profit & loss.
 
+## 📸 Screenshots
+
+### Home
+<img src="screenshots/home.png" width="200" alt="Home page">
+
+### Booking Flow
+<img src="screenshots/booking-1-providers.png" width="200" alt="Browse providers">
+<img src="screenshots/booking-2-form.png" width="200" alt="Booking form">
+
+### AI Chatbot
+<img src="screenshots/chatbot.png" width="200" alt="Chatbot">
+
+### Admin Dashboard
+<img src="screenshots/admin-overview.png" width="200" alt="Admin overview">
+
 ---
 
 ## ✨ Features
@@ -143,25 +158,6 @@ The app runs at `http://localhost:3000`.
 | `/api/chat` | AI chatbot |
 | `/admin`, `/api/admin` | Admin features & review moderation |
 | `/adminDashBoard/Financial` | Revenue, expenses & financial activity |
-
----
-
-## 📸 Screenshots
-
-### Home
-<img src="screenshots/home.png" width="200" alt="Home page">
-
-### Booking Flow
-<img src="screenshots/booking-1-providers.png" width="200" alt="Browse providers">
-<img src="screenshots/booking-2-form.png" width="200" alt="Booking form">
-<img src="screenshots/booking-3-my-bookings.png" width="200" alt="My bookings">
-
-### AI Chatbot
-<img src="screenshots/chatbot.png" width="200" alt="Chatbot">
-
-### Admin Dashboard
-<img src="screenshots/admin-overview.png" width="200" alt="Admin overview">
-<img src="screenshots/admin-salary.png" width="200" alt="Salary management">
 
 ---
 
