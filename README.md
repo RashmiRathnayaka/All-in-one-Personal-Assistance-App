@@ -4,18 +4,28 @@ SereniLux is a full-stack web platform that connects customers with local servic
 
 ## 📸 Screenshots
 
-### Home
-<img src="screenshots/home.png" width="200" alt="Home page">
-
-### Booking Flow
-<img src="screenshots/booking-1-providers.png" width="200" alt="Browse providers">
-<img src="screenshots/booking-2-form.png" width="200" alt="Booking form">
-
-### AI Chatbot
-<img src="screenshots/chatbot.png" width="200" alt="Chatbot">
-
-### Admin Dashboard
-<img src="screenshots/admin-overview.png" width="200" alt="Admin overview">
+<table>
+  <tr>
+    <td align="center">
+      <img src="screenshots/home.png" width="400" alt="Home Page"><br>
+      <b>Home Page</b>
+    </td>
+    <td align="center">
+      <img src="screenshots/booking-1-providers.png" width="400" alt="Browse Service Providers"><br>
+      <b>Browse Service Providers</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="screenshots/chatbot.png" width="400" alt="AI Chatbot"><br>
+      <b>AI Chatbot</b>
+    </td>
+    <td align="center">
+      <img src="screenshots/admin-overview.png" width="400" alt="Admin Dashboard"><br>
+      <b>Admin Dashboard</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
